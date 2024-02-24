@@ -3,3 +3,4 @@
 - 🌱 I am now learning about front-end web page building and Node.js.
 - 💞 I want to work together on hosting websites.
 - 📫 To contact me, please send an email to fuxiang1109@qq.com.
+- 🏫 I am learning at Jinan Yuxiu Middle School in Jinan, Shandong, China.
